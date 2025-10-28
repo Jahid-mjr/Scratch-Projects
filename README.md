@@ -16,8 +16,6 @@ Each project reflects my learning journey in logic building, storytelling, and v
 ---
 
 
----
-
 ## 🖥️ How to Open a Project
 
 1. Go to the [Scratch Online Editor](https://scratch.mit.edu/projects/editor/)  
