@@ -55,7 +55,7 @@ Each project reflects my learning journey in logic building, storytelling, and v
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-
+---
 ## ✍️ Author
 
 👤 **Muhammad Jahidul Islam**  
