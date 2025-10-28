@@ -1,46 +1,68 @@
-# 🎨 Scratch Projects Collection
+# 🧩 My Scratch Projects
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Jahid-mjr/Scratch-Projects?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/Jahid-mjr/Scratch-Projects?color=green)
-![GitHub stars](https://img.shields.io/github/stars/Jahid-mjr/Scratch-Projects?color=yellow)
-
----
-
-## 📖 About
-
-This repository contains my **Scratch projects** developed during my university coursework and personal experiments.  
-Each project demonstrates creativity, logical thinking, and problem-solving using visual programming concepts.
+Welcome to my **Scratch Projects Collection!**  
+This repository showcases all the creative and educational projects I've built using the **Scratch programming platform** — from simple games to interactive animations.  
+Each project reflects my learning journey in logic building, storytelling, and visual programming.
 
 ---
 
-## 🧩 Projects Included
+## 🚀 Highlights
 
-| Project Name | Description | Preview |
-|---------------|-------------|----------|
-| 🚗 **Car Racing Game** | A fun racing game with score tracking and motion control. | ![Car Game](Project-1_Name/preview.png) |
-| 🐱 **Cat Catcher** | Catch the falling objects before time runs out! | ![Cat Catcher](Project-2_Name/preview.png) |
-| 🧮 **Math Quiz Game** | Interactive quiz game for kids to learn math. | ![Math Quiz](Project-3_Name/preview.png) |
-
----
-
-## 🛠 How to Use
-
-1. Download any `.sb3` file from the project folders.  
-2. Open [Scratch Online Editor](https://scratch.mit.edu/projects/editor/) or install **Scratch Desktop**.  
-3. Upload the `.sb3` file and enjoy exploring the project!
+- 🎮 **Interactive Games** — fun projects made with Scratch blocks and custom sprites.  
+- 🧠 **Logic-Based Projects** — applying conditions, variables, and loops visually.  
+- 🎨 **Animations & Storytelling** — creative visuals and sound design.  
+- 🧑‍💻 **University Coursework + Personal Experiments**
 
 ---
 
-## 🧑‍💻 Author
-
-**Jahid Rayhan**  
-🎓 Undergraduate Student at [Your University Name]  
-🌐 GitHub: [Jahid-mjr](https://github.com/Jahid-mjr)
 
 ---
 
-## ⭐ Support
+## 🖥️ How to Open a Project
 
-If you like my work, please ⭐ this repo!  
-It motivates me to build more fun and educational Scratch projects.
+1. Go to the [Scratch Online Editor](https://scratch.mit.edu/projects/editor/)  
+2. Click **File → Load from your computer**  
+3. Select the `.sb3` file from this repository  
+4. Click the green flag ▶️ and enjoy the project!
+
+---
+
+
+## 🧠 Concepts Learned
+
+- Motion & Events  
+- Variables and Loops  
+- Conditional Logic (If/Else)  
+- Score Keeping and Broadcasting  
+- Sprite Animation & Sound Effects
+- so on... 
+
+---
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <!-- Scratch -->
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch"/>
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+  <!-- Visual Studio Code -->
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+
+  <!-- Canva -->
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+
+## ✍️ Author
+
+👤 **Muhammad Jahidul Islam**  
+📧 mjr.jahidulislam@gmail.com  
+🌐 [My GitHub Profile](https://github.com/Jahid-mjr)  
+
+---
 
