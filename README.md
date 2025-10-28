@@ -23,7 +23,7 @@ Each project reflects my learning journey in logic building, storytelling, and v
 1. Go to the [Scratch Online Editor](https://scratch.mit.edu/projects/editor/)  
 2. Click **File → Load from your computer**  
 3. Select the `.sb3` file from this repository  
-4. Click the green flag ▶️ and enjoy the project!
+4. Click the green flag and enjoy the project!
 
 ---
 
